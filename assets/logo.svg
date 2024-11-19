@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="25" fill="#4F46E5" />
+  
+  <!-- Radar Lines -->
+  <path d="M30 30 L50 15" stroke="#ffffff" stroke-width="2" fill="none">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M30 30 L45 40" stroke="#ffffff" stroke-width="2" fill="none">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Central Dot -->
+  <circle cx="30" cy="30" r="4" fill="#ffffff">
+    <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite" />
+  </circle>
+  
+  <!-- Text -->
+  <text x="70" y="40" font-family="Arial" font-weight="bold" font-size="28" fill="#4F46E5">AIScout</text>
+</svg>
