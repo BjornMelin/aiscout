@@ -107,9 +107,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- Website: [aiscout.dev](https://aiscout.dev)
+<!-- - Website: [aiscout.dev](https://aiscout.dev)
 - Twitter: [@AIScoutApp](https://twitter.com/AIScoutApp)
-- Email: hello@aiscout.dev
+- Email: hello@aiscout.dev -->
 - GitHub Issues: [Report a bug](https://github.com/BjornMelin/aiscout/issues)
 
 ---
