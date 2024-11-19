@@ -4,10 +4,10 @@
   <img src="assets/logo.svg" alt="AIScout Logo" width="400"/>
   
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/aiscout?style=social)](https://github.com/yourusername/aiscout)
-  [![Docker Pulls](https://img.shields.io/docker/pulls/yourusername/aiscout)](https://hub.docker.com/r/yourusername/aiscout)
-  [![Build Status](https://github.com/yourusername/aiscout/workflows/CI/badge.svg)](https://github.com/yourusername/aiscout/actions)
-  [![codecov](https://codecov.io/gh/yourusername/aiscout/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/aiscout)
+  [![GitHub Stars](https://img.shields.io/github/stars/BjornMelin/aiscout?style=social)](https://github.com/BjornMelin/aiscout)
+  [![Docker Pulls](https://img.shields.io/docker/pulls/BjornMelin/aiscout)](https://hub.docker.com/r/BjornMelin/aiscout)
+  [![Build Status](https://github.com/BjornMelin/aiscout/workflows/CI/badge.svg)](https://github.com/BjornMelin/aiscout/actions)
+  [![codecov](https://codecov.io/gh/BjornMelin/aiscout/branch/main/graph/badge.svg)](https://codecov.io/gh/BjornMelin/aiscout)
 </div>
 
 ## 🎯 Overview
@@ -29,7 +29,7 @@ AIScout is your intelligent radar for the rapidly evolving AI landscape. Our pla
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/aiscout.git
+git clone https://github.com/BjornMelin/aiscout.git
 
 # Navigate to the project directory
 cd aiscout
@@ -103,14 +103,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Anthropic](https://www.anthropic.com/) - For Claude AI assistance
 - [arXiv](https://arxiv.org/) - Research paper source
 - [HuggingFace](https://huggingface.co/) - ML models and datasets
-- All our [contributors](https://github.com/yourusername/aiscout/graphs/contributors)
+- All our [contributors](https://github.com/BjornMelin/aiscout/graphs/contributors)
 
 ## 📬 Contact
 
 - Website: [aiscout.dev](https://aiscout.dev)
 - Twitter: [@AIScoutApp](https://twitter.com/AIScoutApp)
 - Email: hello@aiscout.dev
-- GitHub Issues: [Report a bug](https://github.com/yourusername/aiscout/issues)
+- GitHub Issues: [Report a bug](https://github.com/BjornMelin/aiscout/issues)
 
 ---
 
